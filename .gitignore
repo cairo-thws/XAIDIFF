@@ -1,0 +1,8 @@
+__pycache__/
+*.json
+*.tex
+*.lock
+.vscode/
+wandb/
+gitignore
+pretrained_models
